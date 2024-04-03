@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Carlos",
+      "last_name": "Perez",
+      "user_name": "carlos_perez",
+      "password": "miyicarlos1825",
+      "email": "carperfer@hotmail.es",
+      "phone": "996437525",
+      "position": "Profesor",
+      "type": "Educación Física",
+      "level": "Primaria",
+      "photo": "https://us.123rf.com/450wm/classicvector/classicvector1912/classicvector191200589/136614976-ilustraci%C3%B3n-de-vector-de-maestro-de-entrenamiento-f%C3%ADsico.jpg",
+      "description": "Soy Carlos Perez, profesor de educación física en la I.E. El Olivar.",
+      "date_register": "2023-08-10T14:25:00.000Z"
+    },
+    {
+      "name": "Carlos",
+      "last_name": "not yet",
+      "user_name": "not yet",
+      "password": "carlos1825",
+      "email": "carlitospp2510@hotmail.com",
+      "phone": "not yet",
+      "position": "Profesor",
+      "type": "not yet",
+      "level": "Primaria",
+      "photo": "not yet",
+      "description": "not yet",
+      "date_register": "2023-08-16T20:46:00.327Z",
+      "id": 2
+    }
+  ]
+}
